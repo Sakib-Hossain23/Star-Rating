@@ -3,12 +3,11 @@ This is a simple star rating feature made with JavaScript, HTML, and CSS. You ca
 
 # Features:
 
-Pick Number of Stars
-Instant Feedback
-Easy to Style
-Keyboard Friendly
-Small and Fast
-
+- **Pick Number of Stars**
+- **Instant Feedback**
+- **Easy to Style**
+- **Keyboard Friendly**
+- **Small and Fast**
 
 # Technologies Used:
 HTML

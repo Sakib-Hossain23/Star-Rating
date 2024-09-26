@@ -13,3 +13,6 @@ This is a simple star rating feature made with JavaScript, HTML, and CSS. You ca
 HTML
 CSS
 JavaScript
+
+# Live Demo
+Go to link [Star-Rating-Component](https://sakib-hossain23.github.io/Star-Rating-Component/)
